@@ -45,7 +45,7 @@ http://jqueryui.com/
 
 부트스트랩
 ----------
-*http://getbootstrap.com/
-*http://bootstrapk.com/
-*https://www.w3schools.com/bootstrap/
-*https://startbootstrap.com/
+* http://getbootstrap.com/
+* http://bootstrapk.com/
+* https://www.w3schools.com/bootstrap/
+* https://startbootstrap.com/
