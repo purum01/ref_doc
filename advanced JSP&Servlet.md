@@ -15,14 +15,14 @@ http://www.mybatis.org/mybatis-3/sqlmap-xml.html
 
 
 JavaScript
-http://www.w3schools.com/js/default.asp
+* http://www.w3schools.com/js/default.asp
 
-http://devdocs.io/
+* http://devdocs.io/
 
 CSS
-https://www.kobzarev.com/wp-content/uploads/cheatsheets/css/css3-cheat-sheet.pdf
+* https://www.kobzarev.com/wp-content/uploads/cheatsheets/css/css3-cheat-sheet.pdf
 
-https://developer.mozilla.org/ko/docs/Web/CSS/Css_Reference
+* https://developer.mozilla.org/ko/docs/Web/CSS/Css_Reference
 
 jQuery
 https://oscarotero.com/jquery/
