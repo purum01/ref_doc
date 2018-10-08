@@ -21,7 +21,7 @@ https://developer.mozilla.org/ko/docs/Web/CSS/Css_Reference
 
 
 JQuery
-========
+-------
 jQuery 공식사이트
 http://jquery.com/
 
@@ -34,7 +34,7 @@ jQuery API문서
 http://api.jquery.com/
 
 
-jquery cheat sheet (JQuery?Quick API Reference)
+jquery cheat sheet 
 https://oscarotero.com/jquery/
 
 
