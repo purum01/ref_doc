@@ -1,6 +1,6 @@
 jQuery 시장
 ----------
-https://w3techs.com/technologies/overview/javascript_library/allz
+https://w3techs.com/technologies/overview/javascript_library/all
 https://w3techs.com/technologies/history_overview/javascript_library
 
 
